@@ -10,7 +10,7 @@ CNC drive frames for the [Voron Trident](https://github.com/VoronDesign/Voron-Tr
 * [Partner 3D (GE)](https://partner-3d.de/)
 * [Levendigs (NE)](https://levendigs.com/)
 * [onetwo3D (UK)](https://www.onetwo3d.co.uk/product/ldo-voron-awd-all-wheel-drive-upgrade-kit/)
-* [H|2|E Commerce(UK)](https://h2ecommerce.com/)
+* [123-3D (UK)](https://www.123-3d.co.uk/) subsidiary of [H|2|E Commerce](https://h2ecommerce.com/)
 * [Fabreeko (US)](https://www.fabreeko.com/products/ldo-cnc-all-wheel-drive-kit-for-voron-v2-4-and-trident)
 * KB3D (US) [Voron Trident](https://kb-3d.com/store/voron/6134-pre-order-ldo-cnc-awd-conversion-kit-for-voron-trident-1757455457877.html) [Voron V2.4](https://kb-3d.com/store/motion/6133-pre-order-ldo-cnc-awd-conversion-kit-for-voron-v24-1757455457079.html)
 * [West3D (US)](https://west3d.com/products/ldo-voron-cnc-awd-kit-v2-4-or-trident)

@@ -7,7 +7,7 @@ CNC drive frames for the [Voron Trident](https://github.com/VoronDesign/Voron-Tr
 * Metal! - Improved heat dissipation of stepper motors at higher current
 * Shorter effective belt length between toolhead and drive gear - Improves max acceleration, input shaper results and accuracy during direction change.
 * Double shear shaft support - Allows for increased tension without deflecting the drive shaft
-* Backwards compatible - Any toolhead or XY joint that was designed for the Voron Trident or Voron V2.4 will work! Keep in mind that different toolhead geometries may result in loss of travel near the front motor mounts.
+* Backwards compatible - Toolheads or XY joints designed for the Voron Trident or Voron V2.4 will work! Keep in mind that different toolhead geometries may result in loss of travel near the front motor mounts.
 * (Voron V2.4 only) Live shaft idlers - Like toothed idlers but utilizing more robust bearings for longevity
 
 ## Vendors

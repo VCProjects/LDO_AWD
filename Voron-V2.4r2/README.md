@@ -8,6 +8,13 @@ There are a few printed parts recommended for clean cable management. Head over 
 
 It is recommended to get some channel covers for your Y extrusions. This will prevent the motor wires from rubbing against the belts.
 
+Depending on the orientation of the front motor mounts and the toolhead assembly, some amount of printable area will be lost at the front corners of the build plate. The below table will be updated as data comes in. If you would like to contribute to this table please submit a pull request or create an issue with dimensions for both the Voron Trident and the Voron V2.4r2.
+
+---
+| Toolhead | X Loss (mm) | Y Loss (mm) |
+| --- | --- | --- |
+| Stealthburner | 35.9 | 48.6 |
+
 ## So what's in the box?!
 Note that the Contents section of the [assembly manual](assembly_manual.pdf) accounts for individual hardware components. For an improved assembly experience some components are preinstalled.
 

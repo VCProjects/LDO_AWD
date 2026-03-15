@@ -14,3 +14,6 @@ This section houses creations from users that have either made assembly easier, 
 |---|---|---|---|---|---|
 | Mastur_Mynd | [Y Endstop Mount](./Mastur_Mynd/Y_Endstop_Mount) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Kyle_GB| [Accent Sleeves](./Kyle_GB/Accent_Sleeves) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| TheSin- | [AABB Microfit3 Pods](./TheSin-/AABB_Microfit3_Pods) | :heavy_check_mark: | :x: | :x: | :x: |
+| TheSin- | [Front Motor Wiring](./TheSin-/Front_Motor_Wiring) | :heavy_check_mark: | :x: | :x: | :x: |
+| TheSin- | [Zumbilical](./TheSin-/Zumbilical) | :heavy_check_mark: | :heavy_check_mark: | :x: | :x: |
